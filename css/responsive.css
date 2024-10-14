@@ -35,7 +35,7 @@
         row-gap: 20px;
     }
 	.video-col iframe{
-		max-width: 100%;
+		min-width:690px;
 	}
     /* Social-Media Section */
     .sm-list li {

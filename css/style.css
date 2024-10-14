@@ -5,9 +5,15 @@
     box-sizing: border-box;
 	
 }
-
+.pres-content img{
+	float: left; 
+	width: 50%;
+}
 img {
-    width: 100%;
+    width: 50%;
+	margin-right: -40px;
+	margin-left: -40px;
+	padding: 0;
 }
 
 /* UTILITIES */
